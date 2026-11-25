@@ -1,0 +1,11 @@
+# Banco de dados local (criado ao executar o app)
+*.db
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Streamlit
+.streamlit/secrets.toml
